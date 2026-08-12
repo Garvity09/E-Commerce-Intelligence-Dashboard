@@ -1,0 +1,28 @@
+{
+  "rows": 8523,
+  "columns": [
+    "Item Fat Content",
+    "Item Identifier",
+    "Item Type",
+    "Outlet Establishment Year",
+    "Outlet Identifier",
+    "Outlet Location Type",
+    "Outlet Size",
+    "Outlet Type",
+    "Item Visibility",
+    "Item Weight",
+    "Sales",
+    "Rating"
+  ],
+  "kpis": {
+    "total_sales": 1201681.49,
+    "average_sales": 140.99,
+    "number_of_items": 8523,
+    "average_rating": 3.97
+  },
+  "notes": [
+    "Use the supplied dataset as the source of truth.",
+    "Normalize LF/Low Fat and Reg/Regular for fat-content aggregation.",
+    "Do not fabricate values."
+  ]
+}
