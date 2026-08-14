@@ -145,3 +145,4 @@ To deploy via Vercel CLI:
 - **Static Dataset**: Currently loads a local file. Future updates can bind this loader to live S3 API endpoints or database connections.
 "# E-Commerce-Intelligence-Dashboard" 
 "# E-Commerce-Intelligence-Dashboard" 
+"# E-Commerce-Intelligence-Dashboard" 
