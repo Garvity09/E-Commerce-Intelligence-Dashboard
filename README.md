@@ -144,3 +144,4 @@ To deploy via Vercel CLI:
 - **Client-Side CSV Parsing**: The entire 8,500+ records dataset is parsed and grouped in the browser. For databases larger than 100k records, processing should be moved to a backend REST API or OLAP database (e.g., ClickHouse).
 - **Static Dataset**: Currently loads a local file. Future updates can bind this loader to live S3 API endpoints or database connections.
 "# E-Commerce-Intelligence-Dashboard" 
+"# E-Commerce-Intelligence-Dashboard" 
